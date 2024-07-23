@@ -1,6 +1,7 @@
 # Conda environment with environment.yml
-# This project is adapted from the tuotrial "Your First Machine Learning Project in Python Step-By-Step" by Jason Brownlee (February 10, 2019)
-# https://machinelearningmastery.com/machine-learning-in-python-step-by-step/ 
+# This project is adapted from the tuotrial "Your First Machine Learning Project in R Step-By-Step" by Jason Brownlee (February 3, 2016).
+# https://machinelearningmastery.com/machine-learning-in-r-step-by-step/ Links to an external site. 
+
 
 [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Nehaal1-ctrl/Machine_Learning_R.git/HEAD)
 
